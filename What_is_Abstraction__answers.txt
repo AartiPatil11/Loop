@@ -1,1 +1,0 @@
-Hiding internal details and showing only essential features.
